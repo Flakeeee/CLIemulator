@@ -1,0 +1,6 @@
+ls
+cd documents
+ls
+tree
+cd ..
+du
